@@ -1,4 +1,4 @@
-# PyCon China 2022 幻灯片
+# PyCon China 2022 Slides
 
 相关演讲视频将会发布到：
 
@@ -8,4 +8,4 @@
 欢迎关注我们的社交账号了解相关动态：
 
 - Twitter [@PyConChina](https://twitter.com/PyConChina)
-- 微信公众号：[@PyChinaOrg](https://pychina.org/#gh)
+- 微信公众号 [@PyChinaOrg](https://pychina.org/#gh)
